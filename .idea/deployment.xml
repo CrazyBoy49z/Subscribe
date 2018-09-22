@@ -12,6 +12,7 @@
             <excludedPath path="/config.core.php" />
             <excludedPath path="/index.php" />
             <excludedPath path="/ht.access" />
+            <excludedPath path="/Subscribe" />
           </excludedPaths>
         </serverdata>
       </paths>

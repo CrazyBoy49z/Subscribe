@@ -2,75 +2,79 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b308dc38-c205-4c45-9902-9630a923fe73" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/modExtra/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modExtra/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modExtra/_build/build.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modExtra/_build/config.inc.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modExtra/_build/elements/_plugins.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modExtra/_build/elements/_resources.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modExtra/_build/elements/_settings.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modExtra/_build/elements/_templates.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modExtra/_build/elements/_widgets.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modExtra/_build/elements/chunks.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modExtra/_build/elements/menus.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modExtra/_build/elements/snippets.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modExtra/_build/resolvers/_office.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modExtra/_build/resolvers/_setup.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modExtra/_build/resolvers/symlinks.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modExtra/_build/resolvers/tables.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modExtra/assets/components/modextra/connector.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modExtra/assets/components/modextra/css/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modExtra/assets/components/modextra/css/mgr/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modExtra/assets/components/modextra/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modExtra/assets/components/modextra/js/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modExtra/assets/components/modextra/js/mgr/misc/combo.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modExtra/assets/components/modextra/js/mgr/misc/utils.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modExtra/assets/components/modextra/js/mgr/modextra.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modExtra/assets/components/modextra/js/mgr/sections/home.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modExtra/assets/components/modextra/js/mgr/widgets/home.panel.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modExtra/assets/components/modextra/js/mgr/widgets/items.grid.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modExtra/assets/components/modextra/js/mgr/widgets/items.windows.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modExtra/assets/components/modextra/js/office/default.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modExtra/assets/components/modextra/js/office/home.panel.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modExtra/assets/components/modextra/js/office/items.grid.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modExtra/assets/components/modextra/js/office/items.windows.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modExtra/core/components/modextra/controllers/home.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modExtra/core/components/modextra/controllers/office/modextra.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modExtra/core/components/modextra/docs/changelog.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modExtra/core/components/modextra/docs/license.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modExtra/core/components/modextra/docs/readme.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modExtra/core/components/modextra/elements/chunks/item.tpl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modExtra/core/components/modextra/elements/chunks/office.tpl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modExtra/core/components/modextra/elements/plugins/modextra.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modExtra/core/components/modextra/elements/snippets/modextra.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modExtra/core/components/modextra/elements/templates/base.tpl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modExtra/core/components/modextra/lexicon/en/default.inc.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modExtra/core/components/modextra/lexicon/en/properties.inc.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modExtra/core/components/modextra/lexicon/en/setting.inc.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modExtra/core/components/modextra/lexicon/ru/default.inc.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modExtra/core/components/modextra/lexicon/ru/properties.inc.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modExtra/core/components/modextra/lexicon/ru/setting.inc.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modExtra/core/components/modextra/model/modextra.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modExtra/core/components/modextra/model/modextra/metadata.mysql.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modExtra/core/components/modextra/model/modextra/modextraitem.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modExtra/core/components/modextra/model/modextra/mysql/modextraitem.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modExtra/core/components/modextra/model/modextra/mysql/modextraitem.map.inc.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modExtra/core/components/modextra/model/schema/modextra.mysql.schema.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modExtra/core/components/modextra/processors/mgr/item/create.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modExtra/core/components/modextra/processors/mgr/item/disable.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modExtra/core/components/modextra/processors/mgr/item/enable.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modExtra/core/components/modextra/processors/mgr/item/get.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modExtra/core/components/modextra/processors/mgr/item/getlist.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modExtra/core/components/modextra/processors/mgr/item/remove.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modExtra/core/components/modextra/processors/mgr/item/update.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modExtra/core/components/modextra/processors/office/item/create.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modExtra/core/components/modextra/processors/office/item/disable.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modExtra/core/components/modextra/processors/office/item/enable.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modExtra/core/components/modextra/processors/office/item/get.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modExtra/core/components/modextra/processors/office/item/getlist.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modExtra/core/components/modextra/processors/office/item/remove.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modExtra/core/components/modextra/processors/office/item/update.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modExtra/rename_it.php" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subscribe/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subscribe/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subscribe/_build/build.php" beforeDir="false" afterPath="$PROJECT_DIR$/_build/build.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subscribe/_build/config.inc.php" beforeDir="false" afterPath="$PROJECT_DIR$/_build/config.inc.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subscribe/_build/elements/_plugins.php" beforeDir="false" afterPath="$PROJECT_DIR$/_build/elements/_plugins.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subscribe/_build/elements/_resources.php" beforeDir="false" afterPath="$PROJECT_DIR$/_build/elements/_resources.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subscribe/_build/elements/_settings.php" beforeDir="false" afterPath="$PROJECT_DIR$/_build/elements/_settings.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subscribe/_build/elements/_templates.php" beforeDir="false" afterPath="$PROJECT_DIR$/_build/elements/_templates.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subscribe/_build/elements/_widgets.php" beforeDir="false" afterPath="$PROJECT_DIR$/_build/elements/_widgets.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subscribe/_build/elements/chunks.php" beforeDir="false" afterPath="$PROJECT_DIR$/_build/elements/chunks.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subscribe/_build/elements/menus.php" beforeDir="false" afterPath="$PROJECT_DIR$/_build/elements/menus.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subscribe/_build/elements/snippets.php" beforeDir="false" afterPath="$PROJECT_DIR$/_build/elements/snippets.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subscribe/_build/resolvers/_office.php" beforeDir="false" afterPath="$PROJECT_DIR$/_build/resolvers/_office.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subscribe/_build/resolvers/_setup.php" beforeDir="false" afterPath="$PROJECT_DIR$/_build/resolvers/_setup.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subscribe/_build/resolvers/symlinks.php" beforeDir="false" afterPath="$PROJECT_DIR$/_build/resolvers/symlinks.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subscribe/_build/resolvers/tables.php" beforeDir="false" afterPath="$PROJECT_DIR$/_build/resolvers/tables.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subscribe/assets/components/subscribe/connector.php" beforeDir="false" afterPath="$PROJECT_DIR$/assets/components/subscribe/connector.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subscribe/assets/components/subscribe/css/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/components/subscribe/css/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subscribe/assets/components/subscribe/css/mgr/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/components/subscribe/css/mgr/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subscribe/assets/components/subscribe/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/components/subscribe/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subscribe/assets/components/subscribe/js/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/components/subscribe/js/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subscribe/assets/components/subscribe/js/mgr/misc/combo.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/components/subscribe/js/mgr/misc/combo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subscribe/assets/components/subscribe/js/mgr/misc/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/components/subscribe/js/mgr/misc/utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subscribe/assets/components/subscribe/js/mgr/sections/home.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/components/subscribe/js/mgr/sections/home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subscribe/assets/components/subscribe/js/mgr/subscribe.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/components/subscribe/js/mgr/subscribe.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subscribe/assets/components/subscribe/js/mgr/widgets/home.panel.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/components/subscribe/js/mgr/widgets/home.panel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subscribe/assets/components/subscribe/js/mgr/widgets/items.grid.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/components/subscribe/js/mgr/widgets/items.grid.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subscribe/assets/components/subscribe/js/mgr/widgets/items.windows.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/components/subscribe/js/mgr/widgets/items.windows.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subscribe/assets/components/subscribe/js/office/default.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/components/subscribe/js/office/default.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subscribe/assets/components/subscribe/js/office/home.panel.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/components/subscribe/js/office/home.panel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subscribe/assets/components/subscribe/js/office/items.grid.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/components/subscribe/js/office/items.grid.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subscribe/assets/components/subscribe/js/office/items.windows.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/components/subscribe/js/office/items.windows.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subscribe/core/components/subscribe/controllers/home.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/components/subscribe/controllers/home.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subscribe/core/components/subscribe/controllers/office/subscribe.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/components/subscribe/controllers/office/subscribe.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subscribe/core/components/subscribe/docs/changelog.txt" beforeDir="false" afterPath="$PROJECT_DIR$/core/components/subscribe/docs/changelog.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subscribe/core/components/subscribe/docs/license.txt" beforeDir="false" afterPath="$PROJECT_DIR$/core/components/subscribe/docs/license.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subscribe/core/components/subscribe/docs/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/core/components/subscribe/docs/readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subscribe/core/components/subscribe/elements/chunks/item.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/core/components/subscribe/elements/chunks/item.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subscribe/core/components/subscribe/elements/chunks/office.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/core/components/subscribe/elements/chunks/office.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subscribe/core/components/subscribe/elements/plugins/subscribe.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/components/subscribe/elements/plugins/subscribe.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subscribe/core/components/subscribe/elements/snippets/subscribe.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/components/subscribe/elements/snippets/subscribe.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subscribe/core/components/subscribe/elements/templates/base.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/core/components/subscribe/elements/templates/base.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subscribe/core/components/subscribe/lexicon/en/default.inc.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/components/subscribe/lexicon/en/default.inc.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subscribe/core/components/subscribe/lexicon/en/properties.inc.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/components/subscribe/lexicon/en/properties.inc.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subscribe/core/components/subscribe/lexicon/en/setting.inc.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/components/subscribe/lexicon/en/setting.inc.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subscribe/core/components/subscribe/lexicon/ru/default.inc.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/components/subscribe/lexicon/ru/default.inc.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subscribe/core/components/subscribe/lexicon/ru/properties.inc.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/components/subscribe/lexicon/ru/properties.inc.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subscribe/core/components/subscribe/lexicon/ru/setting.inc.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/components/subscribe/lexicon/ru/setting.inc.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subscribe/core/components/subscribe/model/schema/subscribe.mysql.schema.xml" beforeDir="false" afterPath="$PROJECT_DIR$/core/components/subscribe/model/schema/subscribe.mysql.schema.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subscribe/core/components/subscribe/model/subscribe.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/components/subscribe/model/subscribe.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subscribe/core/components/subscribe/model/subscribe/metadata.mysql.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/components/subscribe/model/subscribe/metadata.mysql.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subscribe/core/components/subscribe/model/subscribe/mysql/subscribeitem.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/components/subscribe/model/subscribe/mysql/subscribeitem.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subscribe/core/components/subscribe/model/subscribe/mysql/subscribeitem.map.inc.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/components/subscribe/model/subscribe/mysql/subscribeitem.map.inc.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subscribe/core/components/subscribe/model/subscribe/subscribeitem.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/components/subscribe/model/subscribe/subscribeitem.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subscribe/core/components/subscribe/processors/mgr/item/create.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/components/subscribe/processors/mgr/item/create.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subscribe/core/components/subscribe/processors/mgr/item/disable.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/components/subscribe/processors/mgr/item/disable.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subscribe/core/components/subscribe/processors/mgr/item/enable.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/components/subscribe/processors/mgr/item/enable.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subscribe/core/components/subscribe/processors/mgr/item/get.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/components/subscribe/processors/mgr/item/get.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subscribe/core/components/subscribe/processors/mgr/item/getlist.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/components/subscribe/processors/mgr/item/getlist.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subscribe/core/components/subscribe/processors/mgr/item/remove.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/components/subscribe/processors/mgr/item/remove.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subscribe/core/components/subscribe/processors/mgr/item/update.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/components/subscribe/processors/mgr/item/update.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subscribe/core/components/subscribe/processors/office/item/create.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/components/subscribe/processors/office/item/create.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subscribe/core/components/subscribe/processors/office/item/disable.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/components/subscribe/processors/office/item/disable.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subscribe/core/components/subscribe/processors/office/item/enable.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/components/subscribe/processors/office/item/enable.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subscribe/core/components/subscribe/processors/office/item/get.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/components/subscribe/processors/office/item/get.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subscribe/core/components/subscribe/processors/office/item/getlist.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/components/subscribe/processors/office/item/getlist.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subscribe/core/components/subscribe/processors/office/item/remove.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/components/subscribe/processors/office/item/remove.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subscribe/core/components/subscribe/processors/office/item/update.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/components/subscribe/processors/office/item/update.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subscribe/rename_it.php" beforeDir="false" afterPath="$PROJECT_DIR$/rename_it.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -82,52 +86,60 @@
     <session id="-1732069027">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.43" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.36" value="1" />
+          <entry key="project.open.time.38" value="1" />
+          <entry key="project.open.time.42" value="1" />
+          <entry key="project.open.time.43" value="2" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="gitignore" value="1" />
-          <entry key="md" value="2" />
+          <entry key="gitignore" value="2" />
+          <entry key="md" value="4" />
           <entry key="php" value="27" />
           <entry key="tpl" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="2" />
+          <entry key="Markdown" value="4" />
           <entry key="PHP" value="27" />
-          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="PLAIN_TEXT" value="2" />
           <entry key="Smarty" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="79" />
+          <entry key="gitignore" value="1" />
+          <entry key="md" value="80" />
           <entry key="php" value="35" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="79" />
+          <entry key="Markdown" value="80" />
           <entry key="PHP" value="35" />
+          <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/modExtra" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/test.php" />
+        <option value="$PROJECT_DIR$/Subscribe/.gitignore" />
         <option value="$PROJECT_DIR$/Subscribe/README.md" />
       </list>
     </option>
@@ -144,10 +156,10 @@
     </include_path>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1390" />
+    <option name="x" value="-1288" />
     <option name="y" value="-158" />
-    <option name="width" value="1346" />
-    <option name="height" value="698" />
+    <option name="width" value="1296" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -155,7 +167,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -163,34 +174,11 @@
               <item name="send" type="b2602c69:ProjectViewProjectNode" />
               <item name="send" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="send" type="b2602c69:ProjectViewProjectNode" />
-              <item name="send" type="462c0819:PsiDirectoryNode" />
-              <item name="Subscribe" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="send" type="b2602c69:ProjectViewProjectNode" />
-              <item name="send" type="462c0819:PsiDirectoryNode" />
-              <item name="Subscribe" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="send" type="b2602c69:ProjectViewProjectNode" />
-              <item name="send" type="462c0819:PsiDirectoryNode" />
-              <item name="Subscribe" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="send" type="b2602c69:ProjectViewProjectNode" />
-              <item name="send" type="462c0819:PsiDirectoryNode" />
-              <item name="Subscribe" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -200,12 +188,14 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="D:/Users/Robot/Desktop/Для работы/modx/modx-2.6.5-pl" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PHPStormProject\send" />
       <recent name="D:\PHPStormProject\send\Send" />
     </key>
   </component>
@@ -232,17 +222,24 @@
       <option name="presentableId" value="Default" />
       <updated>1536607745186</updated>
       <workItem from="1536607746771" duration="3781000" />
-      <workItem from="1536685792475" duration="6404000" />
+      <workItem from="1536685792475" duration="8412000" />
+      <workItem from="1537130044825" duration="43000" />
+      <workItem from="1537218078284" duration="1136000" />
+      <workItem from="1537263804952" duration="146000" />
+      <workItem from="1537447712621" duration="217000" />
+      <workItem from="1537484673365" duration="1023000" />
+      <workItem from="1537540676789" duration="611000" />
+      <workItem from="1537646477759" duration="1445000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10185000" />
+    <option name="totallyTimeSpent" value="16814000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1288" y="-158" width="1296" height="1040" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2540453" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28398058" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -256,12 +253,12 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3296582" />
       <window_info anchor="bottom" id="File Transfer" order="9" weight="0.3296582" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3296582" />
-      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" weight="0.3296582" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.49919093" visible="true" weight="0.3296582" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5008091" side_tool="true" weight="0.3296582" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Remote Host" order="3" weight="0.27508092" />
+      <window_info anchor="right" id="Remote Host" order="3" visible="true" weight="0.27427185" />
       <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
@@ -271,52 +268,22 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/modExtra" />
+    </ignored-roots>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Send/test.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Send/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Send/core/components/modextra/elements/chunks/office.tpl">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Send/rename_it.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-749" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Send/core/components/modextra/model/modextra.class.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Send/_build/build.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="35" lean-forward="true" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Send/_build/config.inc.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Send/_build/elements/_resources.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Send/_build/elements/menus.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Send/_build/elements/chunks.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Send/test.php" />
+    <entry file="file://$PROJECT_DIR$/Send/README.md" />
+    <entry file="file://$PROJECT_DIR$/Send/core/components/modextra/elements/chunks/office.tpl" />
+    <entry file="file://$PROJECT_DIR$/Send/rename_it.php" />
+    <entry file="file://$PROJECT_DIR$/Send/core/components/modextra/model/modextra.class.php" />
+    <entry file="file://$PROJECT_DIR$/Send/_build/build.php" />
+    <entry file="file://$PROJECT_DIR$/Send/_build/config.inc.php" />
+    <entry file="file://$PROJECT_DIR$/Send/_build/elements/_resources.php" />
+    <entry file="file://$PROJECT_DIR$/Send/_build/elements/menus.php" />
+    <entry file="file://$PROJECT_DIR$/Send/_build/elements/chunks.php" />
     <entry file="file://D:/Users/Robot/Desktop/Для работы/modx/modx-2.6.5-pl/core/xpdo/transport/xpdotransport.class.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -324,35 +291,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Send/_build/resolvers/symlinks.php">
+    <entry file="file://$PROJECT_DIR$/Send/_build/resolvers/symlinks.php" />
+    <entry file="file://$PROJECT_DIR$/Send/_build/resolvers/_setup.php" />
+    <entry file="file://$PROJECT_DIR$/Send/_build/resolvers/_office.php" />
+    <entry file="file://$PROJECT_DIR$/Send/_build/resolvers/tables.php" />
+    <entry file="file://$PROJECT_DIR$/rename_it.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Send/_build/resolvers/_setup.php">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1326" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Send/_build/resolvers/_office.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Send/_build/resolvers/tables.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="11" column="43" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+        <state relative-caret-position="17">
+          <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Subscribe/rename_it.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Subscribe/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Subscribe/README.md">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="34">
-            <caret line="2" column="60" selection-start-line="2" selection-start-column="60" selection-end-line="2" selection-end-column="60" />
+            <caret line="2" column="61" selection-start-line="2" selection-start-column="61" selection-end-line="2" selection-end-column="61" />
           </first_editor>
           <second_editor />
         </state>
